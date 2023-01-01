@@ -5,7 +5,7 @@ public class Making_Tree_Of_Star {
         Scanner scanner = new Scanner(System.in);
         System.out.print("k입력해\n> ");
         int k=0, twoSquareK = 1, totalLine = 3, invisibleTriangle = 0;
-
+// 나 깃헙 시험중이양 ㅎ
         while(true)
         {
             k = scanner.nextInt();
